@@ -1,4 +1,6 @@
-# trafficmanagementAI
+# Title-Smart Al based solution for traffic management on routes with heavy traffic from different directions, with real-time monitoring and adaptation of traffic light timings
+![image](https://github.com/user-attachments/assets/6771921c-9e32-45bf-a50e-75fcf53a1fd2)
+
 Smart Traffic Management using Artificial Intelligence and the Raw data of the Traffic 
 
 Smart Traffic Management System using AI
